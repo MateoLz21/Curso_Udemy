@@ -11,3 +11,5 @@ fetch(url) //Me conecto a un servidor
     }).catch((error)=>{//Si no tiene conexion por internet
         console.log(error)
     })
+
+    
